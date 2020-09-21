@@ -273,11 +273,6 @@ ol {
 	opacity: 1;
 	visibility: visible
 }
-.header__menu ul li ul li:hover .dropdown {
-	top: 30px;
-	opacity: 1;
-	visibility: visible
-}
 .header__menu ul li:last-child {
 	margin-right: 0
 }

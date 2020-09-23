@@ -746,17 +746,17 @@ ol {
 	vertical-align: middle
 }
 .footer {
-	background: #3b3e33;
-	padding-top: 65px
+	background: #ce4dc1;
+	padding-top: 65px;
 }
 .footer__top {
 	padding-bottom: 50px;
 	border-bottom: 1px solid rgba(255, 255, 255, .1);
-	margin-bottom: 70px
+	margin-bottom: 70px;
 }
 .footer__subscribe__text {
 	float: left;
-	margin-right: 55px
+	margin-right: 55px;
 }
 .footer__subscribe__text h4 {
 	color: #fff;

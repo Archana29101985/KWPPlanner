@@ -419,7 +419,8 @@ ol {
 }
 .features {
 	padding-top: 0;
-	overflow: hidden
+	overflow: hidden;
+	background-color: #d85353;
 }
 .features .section-title {
 	margin-bottom: 30px
@@ -563,7 +564,8 @@ ol {
 	letter-spacing: 4px
 }
 .request {
-	margin-top: -235px
+	margin-top: -235px;
+	background-color: #d85353;
 }
 .request.request--services {
 	margin-top: 0;
@@ -599,7 +601,8 @@ ol {
 	padding: 60px 145px 40px;
 	border-radius: 10px 10px 0 0;
 	margin-bottom: 0;
-	position: relative
+	position: relative;
+	margin-top: 170px;
 }
 .request__form .section-title:after {
 	position: absolute;
@@ -632,7 +635,7 @@ ol {
 	-webkit-box-shadow: 0 5px 10px rgba(154, 87, 87, .1);
 	box-shadow: 0 5px 10px rgba(154, 87, 87, .1);
 	border-radius: 0 0 10px 10px;
-	background: #fff
+	background: #f1b3d8;
 }
 .request__form form input {
 	height: 50px;

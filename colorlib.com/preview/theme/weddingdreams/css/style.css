@@ -606,7 +606,7 @@ ol {
 	left: 0;
 	bottom: -24px;
 	right: 0;
-	height: 26px;
+	height: 0px;
 	width: 287px;
 	background: url(../img/icon/arrow.png);
 	content: "";

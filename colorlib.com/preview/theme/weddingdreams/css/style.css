@@ -335,12 +335,10 @@ ol {
 }
 .header__right__social {
 	display: inline-block;
-	font-size: 30px;
-	color: #ffffff;
 }
 .header__right__social a {
-	font-size: 16px;
-	color: #444;
+	font-size: 30px;
+	color: #ffffff;
 	margin-right: 20px
 }
 .header__right__search {
